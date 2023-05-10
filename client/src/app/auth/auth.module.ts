@@ -27,3 +27,5 @@ const routes: Routes = [
 })
 export class AuthModule {}
 
+/**@author Raquel K. Alves*/
+

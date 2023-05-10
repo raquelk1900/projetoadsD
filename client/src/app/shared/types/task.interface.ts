@@ -6,3 +6,5 @@ export interface TaskInterface {
   boardId: string;
   userId: string;
 }
+
+/**@author Raquel K. Alves*/

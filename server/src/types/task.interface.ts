@@ -11,3 +11,5 @@ export interface Task {
 }
 
 export interface TaskDocument extends Document, Task {}
+
+/**@author Raquel K. Alves*/

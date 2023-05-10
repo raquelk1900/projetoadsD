@@ -25,3 +25,5 @@ export class HomeComponent implements OnInit, OnDestroy {
     this.isLoggedInSubscription?.unsubscribe();
   }
 }
+
+/**@author Raquel K. Alves*/

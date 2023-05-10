@@ -17,3 +17,5 @@ const columnSchema = new Schema<ColumnDocument>({
 });
 
 export default model<ColumnDocument>("Column", columnSchema);
+
+/**@author Raquel K. Alves*/

@@ -13,3 +13,5 @@ const boardSchema = new Schema<BoardDocument>({
 });
 
 export default model<BoardDocument>("Board", boardSchema);
+
+/**@author Raquel K. Alves*/

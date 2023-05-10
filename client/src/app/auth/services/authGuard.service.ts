@@ -17,3 +17,5 @@ export class AuthGuardService implements CanActivate {
     );
   }
 }
+
+/**@author Raquel K. Alves*/

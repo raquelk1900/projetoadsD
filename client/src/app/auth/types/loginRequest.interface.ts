@@ -3,3 +3,4 @@ export interface LoginRequestInterface {
     password: string | null;
   }
   //interface de login
+  /**@author Raquel K. Alves*/

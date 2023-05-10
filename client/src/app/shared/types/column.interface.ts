@@ -5,3 +5,4 @@ export interface ColumnInterface {
     updatedAt: string;
   }
   
+  /**@author Raquel K. Alves*/

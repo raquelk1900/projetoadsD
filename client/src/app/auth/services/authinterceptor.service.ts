@@ -20,3 +20,5 @@ import {
       return next.handle(req);
     }
   }
+
+  /**@author Raquel K. Alves*/

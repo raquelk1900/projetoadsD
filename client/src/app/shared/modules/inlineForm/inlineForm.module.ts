@@ -9,3 +9,5 @@ import { ReactiveFormsModule } from '@angular/forms';
   exports: [InlineFormComponent],
 })
 export class InlineFormModule {}
+
+/**@author Raquel K. Alves*/

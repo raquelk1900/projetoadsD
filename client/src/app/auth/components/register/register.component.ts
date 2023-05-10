@@ -42,3 +42,4 @@ export class RegisterComponent {
   }
 }
 //configurando a página de registro
+/**@author Raquel K. Alves*/

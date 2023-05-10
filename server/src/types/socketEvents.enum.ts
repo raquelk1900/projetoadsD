@@ -27,4 +27,6 @@ export enum SocketEventsEnum {
   tasksDeleteFailure = "tasks:deleteFailure",
 }
 
+/**@author Raquel K. Alves*/
+
 

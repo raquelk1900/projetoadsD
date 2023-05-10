@@ -3,3 +3,4 @@ export interface ColumnInputInterface {
     boardId: string;
   }
   
+  /**@author Raquel K. Alves*/

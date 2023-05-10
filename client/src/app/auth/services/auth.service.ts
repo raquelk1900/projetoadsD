@@ -48,3 +48,4 @@ export class AuthService {
   }
 }
 //Creating auth module
+/**@author Raquel K. Alves*/

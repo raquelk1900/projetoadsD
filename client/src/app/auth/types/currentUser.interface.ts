@@ -5,3 +5,4 @@ export interface CurrentUserInterface {
     email: string;
   }
 //criando a interface para o currentUser
+/**@author Raquel K. Alves*/

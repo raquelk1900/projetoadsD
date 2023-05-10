@@ -15,3 +15,5 @@ const routes: Routes = [
   declarations: [HomeComponent],
 })
 export class HomeModule {}
+
+/**@author Raquel K. Alves*/

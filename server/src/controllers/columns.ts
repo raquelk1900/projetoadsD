@@ -100,3 +100,5 @@ export const updateColumn = async (
     socket.emit(SocketEventsEnum.columnsUpdateFailure, getErrorMessage(err));
   }
 };
+
+/**@author Raquel K. Alves*/

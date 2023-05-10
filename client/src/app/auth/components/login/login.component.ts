@@ -40,3 +40,5 @@ export class LoginComponent {
     });
   }
 }
+
+/**@author Raquel K. Alves*/

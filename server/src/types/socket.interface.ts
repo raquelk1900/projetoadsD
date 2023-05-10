@@ -4,3 +4,5 @@ import { UserDocument } from "./user.interface";
 export interface Socket extends SocketIoSocket {
   user?: UserDocument;
 }
+
+/**@author Raquel K. Alves*/

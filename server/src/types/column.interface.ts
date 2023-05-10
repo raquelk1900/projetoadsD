@@ -9,3 +9,5 @@ export interface Column {
 }
 
 export interface ColumnDocument extends Document, Column {}
+
+/**@author Raquel K. Alves*/

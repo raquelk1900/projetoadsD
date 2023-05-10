@@ -39,3 +39,5 @@ export class ColumnsService {
     });
   }
 }
+
+/**@author Raquel K. Alves*/

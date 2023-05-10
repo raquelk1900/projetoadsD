@@ -22,3 +22,5 @@ const routes: Routes = [
     imports: [CommonModule, RouterModule.forChild(routes), InlineFormModule, TopbarModule]
 })
 export class BoardsModule {}
+
+/**@author Raquel K. Alves*/

@@ -37,3 +37,5 @@ export class InlineFormComponent {
     this.form.reset();
   }
 }
+
+/**@author Raquel K. Alves*/

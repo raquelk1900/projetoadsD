@@ -24,3 +24,5 @@ const taskSchema = new Schema<TaskDocument>({
 });
 
 export default model<TaskDocument>("Task", taskSchema);
+
+/**@author Raquel K. Alves*/

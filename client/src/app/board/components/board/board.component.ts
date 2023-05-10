@@ -195,4 +195,4 @@ export class BoardComponent implements OnInit, OnDestroy {
   }
 }
 
-
+/**@author Raquel K. Alves*/

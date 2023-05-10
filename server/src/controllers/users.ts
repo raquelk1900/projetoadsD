@@ -75,3 +75,4 @@ export const currentUser = (req: ExpressRequestInterface, res: Response) => {
 
 //implementando login, método de registro e validação deste e normalização da API.
 // 68 currentUser utilzando middlewares para verificar currentUser
+/**@author Raquel K. Alves*/

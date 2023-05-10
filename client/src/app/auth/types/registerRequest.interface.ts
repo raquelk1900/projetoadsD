@@ -3,3 +3,5 @@ export interface RegisterRequestInterface {
     username: string | null;
     password: string | null;
 }
+
+/**@author Raquel K. Alves*/

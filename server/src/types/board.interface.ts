@@ -8,3 +8,5 @@ export interface Board {
 }
 
 export interface BoardDocument extends Document, Board {}
+
+/**@author Raquel K. Alves*/

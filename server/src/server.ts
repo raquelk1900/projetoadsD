@@ -16,6 +16,8 @@ import { secret } from "./config";
 import User from "./models/user";
 
 // conectando o server com mongodb e socket.io e configurações
+/**@author Raquel K. Alves*/
+
 const app = express();
 const httpServer = createServer(app);
 const io = new Server(httpServer, {

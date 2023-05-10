@@ -23,3 +23,5 @@ export class BoardsComponent implements OnInit {
   }
 
 }
+
+/**@author Raquel K. Alves*/

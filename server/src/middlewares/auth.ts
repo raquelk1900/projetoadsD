@@ -29,3 +29,5 @@ export default async (
     res.sendStatus(401);
   }
 };
+
+/**@author Raquel K. Alves*/

@@ -22,3 +22,5 @@ export class AppComponent implements OnInit {
     });
   }
 }
+
+/**@author Raquel K. Alves*/

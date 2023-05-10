@@ -32,3 +32,5 @@ const routes: Routes = [
   providers: [BoardService, ColumnsService, TasksService]
 })
 export class BoardModule {}
+
+/**@author Raquel K. Alves*/

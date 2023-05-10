@@ -123,4 +123,4 @@ export const deleteBoard = async (
   }
 };
 
-
+/**@author Raquel K. Alves*/

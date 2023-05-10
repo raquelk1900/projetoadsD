@@ -5,3 +5,5 @@ export interface BoardInterface {
     createdAt: string;
     updatedAt: string;
   }
+
+  /**@author Raquel K. Alves*/
